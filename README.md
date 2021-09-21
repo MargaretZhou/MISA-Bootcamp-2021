@@ -2,8 +2,12 @@
 
 Some activities
 
-## Git/n
+## Shell
+
 ## Git
 
+
 ## Github
+
+
 
